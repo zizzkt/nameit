@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zizzkt/nameit/static/css/main.fef7882e.css",
+    "main.js": "/zizzkt/nameit/static/js/main.b454e1ea.js",
+    "index.html": "/zizzkt/nameit/index.html",
+    "main.fef7882e.css.map": "/zizzkt/nameit/static/css/main.fef7882e.css.map",
+    "main.b454e1ea.js.map": "/zizzkt/nameit/static/js/main.b454e1ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef7882e.css",
+    "static/js/main.b454e1ea.js"
+  ]
+}
